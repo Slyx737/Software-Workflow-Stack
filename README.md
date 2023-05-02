@@ -31,7 +31,11 @@
 ## Workflow Stack
 
 1. **IDE/Text Editor**
-   - IntelliJ, PyCharm, Unity, Replit
+   - IntelliJ
+   - PyCharm
+   - Unity
+   - Replit
+   - Android Studio
 
 2. **Linting (built into IDEs)**
    - IntelliJ
