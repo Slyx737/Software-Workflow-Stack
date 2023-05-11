@@ -1,4 +1,4 @@
-# software-workflow-stack
+# Software-Workflow-Stack
 
 ## Currently Building
 - Alpha Vantage API Plugin for ChatGPT
