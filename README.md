@@ -2,11 +2,17 @@
 
 ## Currently Building
 - Alpha Vantage API Plugin for ChatGPT
+- CodeBuddy - Autocoder finetuned LLM with custom built GUI using Python
+- Hybrid Machine Learning Algorithm - A genetic algorithm to find the best algorithm, with the best hyperparameters, for a [specific] problem
+- Custom Earnings Tracker Tool 
+- News Scrape Tool with sentiment analysis feature and custom dashboard
+- Content Generation: Substack Series, LinkedIn, and Personal Website
 
 ## Software Stack
 
-1. **Operating System**
-   - Windows
+1. **Operating System(s)**
+   - Windows 10/11
+   - Android 
 
 2. **Backend**
    - Programming Languages:
@@ -70,3 +76,4 @@
 7. **Data Analysis/Finance**
    - TradingView (Financial Market Analysis)
    - Koyfin (Fundamental Business Metrics and Updates)
+   - Portfolio Pilot (Portfolio Analysis, Macroecnomic indicators, earnings calenders, etc...)
