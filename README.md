@@ -1,7 +1,7 @@
 # Software-Workflow-Stack
 
 ## Currently Building
-- Alpha Vantage API Plugin for ChatGPT
+
 - CodeBuddy - Autocoder finetuned LLM with custom built GUI using Python
 - Hybrid Machine Learning Algorithm - A genetic algorithm to find the best algorithm, with the best hyperparameters, for a [specific] problem
 - Custom Earnings Tracker Tool 
