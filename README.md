@@ -2,11 +2,16 @@
 
 ## Currently Building
 
+- Alpha Vantage Plugin for ChatGPT 
+
 - CodeBuddy - Autocoder finetuned LLM with custom built GUI using Python
+
 - Hybrid Machine Learning Algorithm - A genetic algorithm to find the best algorithm, with the best hyperparameters, for a [specific] problem
+
 - Custom Earnings Tracker Tool 
-- News Scrape Tool with sentiment analysis feature and custom dashboard
-- Content Generation: Substack Series, LinkedIn, and Personal Website
+
+- News Scraping Tool with sentiment analysis feature and custom dashboard
+
 
 ## Software Stack
 
@@ -43,22 +48,18 @@
    - Replit
    - Android Studio
 
-2. **Linting (built into IDEs)**
-   - IntelliJ
-   - PyCharm
-
-3. **Project Management/Issue Tracking**
+2. **Project Management/Issue Tracking**
    - Trello
    - GitHub
 
-4. **Collaboration/Communication**
+3. **Collaboration/Communication**
    - Discord
    - Slack
    - Zoom
    - WhatsApp
    - Microsoft Teams
 
-5. **Documentation/Organization**
+4. **Documentation/Organization**
    - Google Docs
    - Microsoft 365
      - Word
@@ -66,14 +67,14 @@
    - Microsoft To Do
    - Trello API connection w/Google Calendar
 
-6. **Content Creation/Management**
+5. **Content Creation/Management**
    - Substack series
    - Squarespace
    - WordPress
    - Canva (Graphic Design)
    - Lightroom (Media Library)
 
-7. **Data Analysis/Finance**
+6. **Data Analysis/Finance**
    - TradingView (Financial Market Analysis)
    - Koyfin (Fundamental Business Metrics and Updates)
    - Portfolio Pilot (Portfolio Analysis, Macroecnomic indicators, earnings calenders, etc...)
